@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <meta charset="Utf-8">
+        <meta name="Description" content="Sistema de estudos">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+        <script src="js/api.js"></script>
+    </head>
+    <body>
+        <div ng-app="Revistas" ng-controller="ControladorRevistas">
+            <ul>
+                <span ng-repeat="revista in revistas">
+                    <li>
+                        {{revista.id}}
+                    </li>
+                    <li>
+                        {{revista.codigo}}
+                    </li>
+                    <li>
+                        {{revista.titulo}}
+                    </li>
+                    <li>
+                        {{revista.pagina}}
+                    </li>
+                    <li>
+                        {{revista.publicacao}}
+                    </li>
+                    <li>
+                        {{revista.qtde}}
+                    </li>
+                </span>
+            </ul>
+        </div>
+    </body>
+</html>
