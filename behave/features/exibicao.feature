@@ -1,0 +1,9 @@
+# language: pt
+
+Funcionalidade: Visualização das revistas em estoque
+
+Contexto: Usuário irá ver as revistas em estoque 
+
+    Cenário: O internauta quer ver a revista em estoque 
+        Dado que estou no caminho file:///home/josias/Documentos/revistas/web-app/index.html
+        Então devo visualizar o texto "revistas em estoque"
