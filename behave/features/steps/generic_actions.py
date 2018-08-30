@@ -28,12 +28,26 @@ def inputComplete(context, dados, campo):
     form = context.browser.find_element_by_xpath(f"//input[@id = '{campo}']")
     if form is not None:
         try:
+            form.click()
             form.send_keys(dados)
         except:
             raise EnvironmentError("Problema ao inserir os campos")
     else:
         raise EnvironmentError(f"Campo '{campo}' não foi encontrado")
 
+use_step_matcher("parse")
+@step(u'coloco a data "{data}" no campo "{calendario}"')
+def inputDate(context, data, calendario):
+    form = context.browser.find_element_by_xpath(f"//input[@id = '{calendario}']")
+    if form is not None:
+        try:
+            print(data)
+            form.send_keys(data)
+            form.click()
+        except:
+            raise EnvironmentError("Problema ao inserir os campos")
+    else:
+        raise EnvironmentError(f"Campo '{calendario}' não foi encontrado")
 
 use_step_matcher("parse")
 @step(u'coloco "{dados}" na caixa {caixa}')

@@ -1,5 +1,6 @@
 import os
 import logging
+import time
 from splinter import Browser
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
@@ -25,5 +26,9 @@ def before_all(context):
     context.browser = get_firefox(context)
     context.browser.implicitly_wait(5)
 
+def before_step(context,step):
+    time.sleep(2)    
+
 def after_all(context):
     context.browser.close()
+
