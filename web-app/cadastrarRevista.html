@@ -4,23 +4,24 @@
         <script src="js/formulario.js"></script>
     </head>
     <body>
+        <h1>Cadrasto de revistas</h1>
         <form ng-app="FormularioRevistas" ng-controller="ControladorFormulario">
             <label>Codigo de Barras:</label>
-            <input type="text" ng-model="revista.codigo"/>
+            <input type="text" id="codigo" ng-model="revista.codigo"/>
             <br>
             <label>Titulo da revista:</label>
-            <textarea rows="4" cols="50" ng-model="revista.titulo"></textarea>
+            <input type="text" ng-model="revista.titulo" id="titulo"/>
             <br>
             <label>Numero de paginas:</label>
-            <input type="number" ng-model="revista.pagina"/>
+            <input type="number" ng-model="revista.pagina" id="paginas"/>
             <br>
             <label>Dada da publicacao:</label>
-            <input type="date" ng-model="revista.publicacao"/>
+            <input type="date" ng-model="revista.publicacao" id="data"/>
             <br>
             <label>Quantidade em estoque:</label>
-            <input type="number" ng-model="revista.qtde"/>
+            <input type="number" ng-model="revista.qtde" id="quantidade"/>
             <br>
-            <input type="submit" value="Cadastrar Revista" ng-click="cadrastrar()"/>
+            <input type="submit" value="Cadastrar Revista" ng-click="cadrastrar()" id="cadrastrar"/>
         </form>
     </body>
 </html>
