@@ -4,6 +4,8 @@ from splinter import Browser
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
+
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FIREFOX_DRIVER_PATH = os.path.join(BASE_DIR,'drives')
 
@@ -21,7 +23,7 @@ def get_firefox(context):
 
 def before_all(context):
     context.browser = get_firefox(context)
-    context.browser.implicitly_wait(20)
+    context.browser.implicitly_wait(5)
 
 def after_all(context):
     context.browser.close()
