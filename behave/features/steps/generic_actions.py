@@ -42,6 +42,7 @@ def inputTextBoxComplete(context, dados, caixa):
         f"//textarea[@id = '{caixa}']")
     if form is not None:
         try:
+            form.click();
             form.send_keys(dados)
         except:
             raise EnvironmentError("Problema ao inserir os campos")
