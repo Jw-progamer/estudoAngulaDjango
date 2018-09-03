@@ -4,7 +4,7 @@ Funcionalidade: Cadrastrar revista no estoque
 
 Contexto: Usuário irá cadrastrar a revista no estoque
 
-    Cenário: O internauta quer cadrastrar a revista em estoque 
+    Cenário: O internauta quer cadrastrar uma revista em estoque 
         Dado que estou no caminho file:///home/josias/Documentos/revistas/web-app/cadastrarRevista.html
         Quando digito os campos referentes a revista
         Então clico no botao cadrastrar 

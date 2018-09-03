@@ -18,7 +18,7 @@ def strip_accents(text):
     text = text.decode('utf-8')
     return str(text)
 
-when(r'digito os campos referente a (.*)')
+@when(r'digito os campos referentes a (.*)')
 def inserts_value_in_field(context, type_realty):
     type_realty = strip_accents(type_realty)
     print('type_realty',type_realty)

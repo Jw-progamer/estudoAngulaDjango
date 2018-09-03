@@ -25,7 +25,8 @@ def get_firefox(context):
 
 
 def instance_revista(context, scenario):
-    if "cadrasta uma revista" in scenario:
+    print(scenario.name)
+    if "cadrastrar uma revista" in scenario.name:
         context.revista = factory.Revista().data
 
 

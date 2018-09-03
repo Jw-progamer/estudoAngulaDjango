@@ -7,7 +7,7 @@ class Revista:
 
     def __init__(self):
         self.data.update({
-            'Codigo de Barras': random.randint(100,100000),
+            'Codigo de Barras:': random.randint(100,100000),
             'Titulo da revista:': fake.text(max_nb_chars=50),
             'Numero de paginas:': random.randint(1,100),
             'Data da publicacao:': fake.date(pattern="%Y-%m-%d"),

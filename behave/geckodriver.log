@@ -781,3 +781,150 @@ JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrow
 1535724543577	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 30190, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535976792670	geckodriver	INFO	geckodriver 0.21.0
+1535976792678	geckodriver	INFO	Listening on 127.0.0.1:44245
+1535976793681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O2gsqlSAXfR4"
+1535976795951	Marionette	INFO	Listening on port 45159
+1535976796015	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535977058626	geckodriver	INFO	geckodriver 0.21.0
+1535977058633	geckodriver	INFO	Listening on 127.0.0.1:44867
+1535977059635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z6GkDWC1OE13"
+1535977061918	Marionette	INFO	Listening on port 38007
+1535977061970	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9336, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535977108475	geckodriver	INFO	geckodriver 0.21.0
+1535977108481	geckodriver	INFO	Listening on 127.0.0.1:43693
+1535977109481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qa41lYkVE0fU"
+1535977111744	Marionette	INFO	Listening on port 45617
+1535977111839	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9914, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535978235062	geckodriver	INFO	geckodriver 0.21.0
+1535978235072	geckodriver	INFO	Listening on 127.0.0.1:57733
+1535978236070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qkhbrtbBJZsP"
+1535978238152	Marionette	INFO	Listening on port 46127
+1535978238202	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22323, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535978459290	geckodriver	INFO	geckodriver 0.21.0
+1535978459296	geckodriver	INFO	Listening on 127.0.0.1:52041
+1535978459304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yTYsqbEvErgg"
+1535978461967	Marionette	INFO	Listening on port 42475
+1535978462052	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535978629592	geckodriver	INFO	geckodriver 0.21.0
+1535978629600	geckodriver	INFO	Listening on 127.0.0.1:43113
+1535978630600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4gCfKBU08o1k"
+1535978632924	Marionette	INFO	Listening on port 45061
+1535978633016	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29214, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535978835684	geckodriver	INFO	geckodriver 0.21.0
+1535978835698	geckodriver	INFO	Listening on 127.0.0.1:33941
+1535978836698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T55ds5Omdrfl"
+1535978840052	Marionette	INFO	Listening on port 44689
+1535978840179	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32364, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535978889301	geckodriver	INFO	geckodriver 0.21.0
+1535978889314	geckodriver	INFO	Listening on 127.0.0.1:53737
+1535978890310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XNFN6AOnfaQz"
+1535978893765	Marionette	INFO	Listening on port 34423
+1535978893872	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1023, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979019426	geckodriver	INFO	geckodriver 0.21.0
+1535979019433	geckodriver	INFO	Listening on 127.0.0.1:39781
+1535979020435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.25a0PISRUsrn"
+1535979023063	Marionette	INFO	Listening on port 35121
+1535979023166	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3431, Gecko_IOThread] WARNING: pipe error (53): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979260922	geckodriver	INFO	geckodriver 0.21.0
+1535979260932	geckodriver	INFO	Listening on 127.0.0.1:45095
+1535979261931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pR6rhu4EhPS0"
+1535979264633	Marionette	INFO	Listening on port 35221
+1535979264675	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8514, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979417495	geckodriver	INFO	geckodriver 0.21.0
+1535979417499	geckodriver	INFO	Listening on 127.0.0.1:39135
+1535979418504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Md1oouumfihF"
+1535979420878	Marionette	INFO	Listening on port 42155
+1535979420921	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10240, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979463842	geckodriver	INFO	geckodriver 0.21.0
+1535979463848	geckodriver	INFO	Listening on 127.0.0.1:57679
+1535979464848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gsu3xLoOqJQH"
+1535979467176	Marionette	INFO	Listening on port 38597
+1535979467276	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11003, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979507990	geckodriver	INFO	geckodriver 0.21.0
+1535979507996	geckodriver	INFO	Listening on 127.0.0.1:54775
+1535979508999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fTZISngwpSOV"
+1535979511500	Marionette	INFO	Listening on port 44251
+1535979511545	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11724, Gecko_IOThread] WARNING: pipe error (100): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979686908	geckodriver	INFO	geckodriver 0.21.0
+1535979686915	geckodriver	INFO	Listening on 127.0.0.1:50371
+1535979687915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kvu6oSoNqwGZ"
+1535979690097	Marionette	INFO	Listening on port 40589
+1535979690152	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14036, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979759454	geckodriver	INFO	geckodriver 0.21.0
+1535979759463	geckodriver	INFO	Listening on 127.0.0.1:39969
+1535979760463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KZtkxMd2E1rK"
+1535979762769	Marionette	INFO	Listening on port 34929
+1535979762793	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15005, Gecko_IOThread] WARNING: pipe error (63): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535979876345	geckodriver	INFO	geckodriver 0.21.0
+1535979876350	geckodriver	INFO	Listening on 127.0.0.1:60547
+1535979877355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.phzJqV1JkF4A"
+1535979879867	Marionette	INFO	Listening on port 38389
+1535979879976	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16398, Gecko_IOThread] WARNING: pipe error (74): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535980843759	geckodriver	INFO	geckodriver 0.21.0
+1535980843767	geckodriver	INFO	Listening on 127.0.0.1:53909
+1535980844769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RpCyNZZA8Ol8"
+1535980847955	Marionette	INFO	Listening on port 46121
+1535980848006	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535981022389	geckodriver	INFO	geckodriver 0.21.0
+1535981022394	geckodriver	INFO	Listening on 127.0.0.1:51667
+1535981023398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QAn0hV8pa9e4"
+1535981025946	Marionette	INFO	Listening on port 42661
+1535981026022	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31037, Gecko_IOThread] WARNING: pipe error (105): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535981652047	geckodriver	INFO	geckodriver 0.21.0
+1535981652052	geckodriver	INFO	Listening on 127.0.0.1:38565
+1535981653057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2c5zUkcOLfmp"
+1535981655330	Marionette	INFO	Listening on port 37631
+1535981655378	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535982140029	geckodriver	INFO	geckodriver 0.21.0
+1535982140034	geckodriver	INFO	Listening on 127.0.0.1:56657
+1535982141040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qQpFBDT7jgTu"
+1535982143471	Marionette	INFO	Listening on port 41799
+1535982143605	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535982185885	geckodriver	INFO	geckodriver 0.21.0
+1535982185889	geckodriver	INFO	Listening on 127.0.0.1:41129
+1535982185896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GBiaVklVwtVv"
+1535982189157	Marionette	INFO	Listening on port 38623
+1535982189245	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535982252906	geckodriver	INFO	geckodriver 0.21.0
+1535982252915	geckodriver	INFO	Listening on 127.0.0.1:33947
+1535982253913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YD5jvdxfJIft"
+1535982256668	Marionette	INFO	Listening on port 43281
+1535982256734	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
