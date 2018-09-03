@@ -928,3 +928,23 @@ JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrow
 1535982256668	Marionette	INFO	Listening on port 43281
 1535982256734	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535984031755	geckodriver	INFO	geckodriver 0.21.0
+1535984031761	geckodriver	INFO	Listening on 127.0.0.1:56625
+1535984031773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X2umMYA6M3eC"
+1535984034314	Marionette	INFO	Listening on port 35813
+1535984034401	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535984258187	geckodriver	INFO	geckodriver 0.21.0
+1535984258193	geckodriver	INFO	Listening on 127.0.0.1:38197
+1535984259197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e7FVhHGLDOk4"
+1535984261339	Marionette	INFO	Listening on port 32787
+1535984261420	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12259, Gecko_IOThread] WARNING: pipe error (96): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535985766478	geckodriver	INFO	geckodriver 0.21.0
+1535985766483	geckodriver	INFO	Listening on 127.0.0.1:60683
+1535985767493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7fbIcNLPBERW"
+1535985769863	Marionette	INFO	Listening on port 36917
+1535985769937	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30276, Gecko_IOThread] WARNING: pipe error (60): Conexão fechada pela outra ponta: file /build/firefox-rIABNe/firefox-61.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

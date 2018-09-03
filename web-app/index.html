@@ -18,29 +18,34 @@
 
 <body>
     <div ng-app="Revistas" ng-controller="ControladorRevistas">
+        <h1>
+            Lista de revistas
+        </h1>
         <ul class="list-group">
             <span ng-repeat="revista in revistas">
-                <h1 id="lista_de _revistas">
-                    Lista de revistas
-                </h1>
-                <li class="list-group-item ">
-                    {{revista.id}}
-                </li>
-                <li class="list-group-item ">
-                    {{revista.codigo}}
-                </li>
-                <li class="list-group-item ">
+                <button class="btn btn-link" data-toggle="collapse" aria-expanded="false" data-target="#colapso{{revista.id}}">
                     {{revista.titulo}}
-                </li>
-                <li class="list-group-item">
-                    {{revista.pagina}}
-                </li>
-                <li class="list-group-item ">
-                    {{revista.publicacao}}
-                </li>
-                <li class="list-group-item ">
-                    {{revista.qtde}}
-                </li>
+                </button>
+                <div id="colapso{{revista.id}}">
+                    <li class="list-group-item ">
+                        {{revista.id}}
+                    </li>
+                    <li class="list-group-item ">
+                        {{revista.codigo}}
+                    </li>
+                    <li class="list-group-item ">
+                        {{revista.titulo}}
+                    </li>
+                    <li class="list-group-item">
+                        {{revista.pagina}}
+                    </li>
+                    <li class="list-group-item ">
+                        {{revista.publicacao}}
+                    </li>
+                    <li class="list-group-item ">
+                        {{revista.qtde}}
+                    </li>
+                </div>
             </span>
         </ul>
     </div>
